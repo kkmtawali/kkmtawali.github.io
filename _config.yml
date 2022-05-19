@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
-title: Kkmtawali's homepage
-description: A hub for my projects.
+title: Konda Mtawali
+theme: minima
+author: Konda Mtawali
+email: kmtawali@tutanota.com
+description: The one and only.
+
+twitter_username: atlanteangold
+github_username: kkmtawali
+
+show_excerpts: true

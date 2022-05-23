@@ -1,6 +1,5 @@
----
-title: "About Me"
----
+<title>About Me</title>
+<img rel="icon" type="image/x-icon" src="favicon.ico" href="favicon.ico">
 
 ### Picture
 

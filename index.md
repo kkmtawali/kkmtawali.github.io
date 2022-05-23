@@ -10,7 +10,7 @@ title: "About Me"
 
 - Github: [kkmtawali](https://github.com/kkmtawali/)
 - Twitter: [atlanteangold](https://twitter.com/atlanteangold/)
-- Email: [kmtawali@tutanota.com](kmtawali@tutanota.com)
+- Email: <kmtawali@tutanota.com>
 
 ### Brag Sheet
 

@@ -1,4 +1,7 @@
-<title>About Me</title>
+---
+title: "About Me"
+---
+
 <img rel="icon" type="image/x-icon" src="favicon.ico" href="favicon.ico">
 
 ### Picture

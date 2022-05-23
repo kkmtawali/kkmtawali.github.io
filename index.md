@@ -4,6 +4,8 @@ title: "About Me"
 
 ### Picture
 
+![](male-placeholder-image.jpeg)
+
 ### Social Media Information
 
 Github: [kkmtawali](https://github.com/kkmtawali/)

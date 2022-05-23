@@ -2,8 +2,7 @@
 title: "About Me"
 ---
 
-<img rel="icon" type="image/x-icon" src="favicon.ico" href="favicon.ico">
-<img src="male-placeholder-image.jpeg" alt="image of me" style="width=200"/>
+<img src="male-placeholder-image.jpeg" alt="image of me" style="width=50"/>
 
 ### Social Media Information
 

@@ -2,6 +2,8 @@
 title: "About Me"
 ---
 
+## Konda Mtawali
+
 <img src="male-placeholder-image.jpeg" alt="image of me" width="200" align="left" hspace="50" />
 
 ### Social Media Information

@@ -2,8 +2,7 @@
 title: "About Me"
 ---
 
-<img src="male-placeholder-image.jpeg" alt="image of me" width="200" align="left" />
-<br clear="left" />
+<img src="male-placeholder-image.jpeg" alt="image of me" width="200" align="left" hspace="50" />
 
 ### Social Media Information
 

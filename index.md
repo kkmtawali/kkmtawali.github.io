@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-## My Name Is Konda Mtawali
+## My name is Konda Keith Mtawali
 
 <img src="male-placeholder-image.jpeg" alt="image of me" width="200" align="left" hspace="50" />
 

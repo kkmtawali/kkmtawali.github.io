@@ -9,7 +9,9 @@ title: "About Me"
 ### Social Media Information
 
 Github: [kkmtawali](https://github.com/kkmtawali/)
+
 Twitter: [atlanteangold](https://twitter.com/atlanteangold/)
+
 Email: [kmtawali@tutanota.com](kmtawalu@tutanota.com)
 
 ### Brag Sheet

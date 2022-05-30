@@ -4,7 +4,7 @@ title: "About Me"
 
 ## My name is Konda Keith Mtawali
 
-<img src="male-placeholder-1653907174361-0b19683a-8c6f-4661-96f3-15906832de70_.jpg" alt="image of me" width="200" align="left" hspace="100" />
+<img src="1653907174361-0b19683a-8c6f-4661-96f3-15906832de70_.jpg" alt="image of me" width="200" align="left" hspace="100" />
 
 ### Social Media Information
 
